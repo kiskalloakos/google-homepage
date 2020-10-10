@@ -1,0 +1,56 @@
+
+.searchbar {
+
+    
+    position: fixed;
+    margin-top: 5%;
+    left:50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    
+    
+    }
+
+.navbar {
+    
+    float: right;
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: -5%;
+    
+    
+    
+ }
+
+ .buttons {
+
+    position:fixed;
+    margin-top: 15%;
+    left:50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+ }
+
+ .buttons a{
+     background-color: #EEEE;
+     overflow: hidden;
+     color: #888888;
+     text-decoration:none;
+     padding: 10px 10px;
+ }
+
+
+.text {
+   
+    position:fixed;
+    margin-top: 24%;
+    left:50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    
+}
+
+.text a{
+    font-size: 13px;
+}
